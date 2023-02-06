@@ -18,6 +18,6 @@ The `Aim2_betweenMethod_generalization` folder contains 2 folders:
 
 2. `analyzingResults`
 
-	The `analyzingResults` folder contains the scripts which analyze the Rdata file produced by the scripts in the `Functions` folder. 
+	The `analyzingResults` folder contains the scripts which analyze the `.RData` file produced by the scripts in the `Functions` folder. 
 
 
